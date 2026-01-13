@@ -4,3 +4,4 @@ logs
 npm-debug.log
 yarn-error.log
 .DS_Store
+echo planning.txt
